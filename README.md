@@ -1,3 +1,7 @@
+# This cookbook is now deprecated. It has been replaced by [AWS Developer Tools](https://github.com/Lytro/aws_developer_tools).
+
+## Old readme is below:
+
 # Chef Cookbook for EC2 CLI Tools
 
 ## Description
